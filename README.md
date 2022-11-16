@@ -1,4 +1,4 @@
-### Most of my projects are private, however occassionally I will make some of them public for view. 
+### Most of my projects are private, however occassionally I will make some of them public for view. I am currently working on making all of my projects available for professional perusal upon request.
 
 If there is anything you would like to see or if you have any questions, please contact me.
 
