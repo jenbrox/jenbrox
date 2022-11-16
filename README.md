@@ -1,7 +1,5 @@
 ### Most of my projects are private, however occassionally I will make some of them public for view. I am currently working on making all of my projects available for professional perusal upon request.
 
-While perhaps unprofessional, I dedicate this space to my dog, Pup. Who, without fail (or choice), allows me to use her as my "rubby ducky" in order to debug my code.
-
 If there is anything you would like to see or if you have any questions, please contact me.
 
 :email: jenbrox@gmail.com  
@@ -13,6 +11,8 @@ If there is anything you would like to see or if you have any questions, please 
 **jenbrox/jenbrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 and debug my code with her, acting as my sounding board.
+
+While perhaps unprofessional, I dedicate this space to my dog, Pup. Who, without fail (or choice), allows me to use her as my "rubby ducky" in order to debug my code.
 
 Here are some ideas to get you started:
 
