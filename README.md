@@ -1,4 +1,11 @@
-### Hi there 👋
+### Most of my projects are private, however occassionally I will make some of them public for view. 
+
+If there is anything you would like to see or if you have any questions, please contact me.
+
+:email: jenbrox@gmail.com  
+:arrows_counterclockwise: Let's connect on [LinkedIn](https://www.linkedin.com/in/jenniferbroxson/)
+
+
 
 <!--
 **jenbrox/jenbrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
