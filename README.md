@@ -1,5 +1,7 @@
 ### Most of my projects are private, however occassionally I will make some of them public for view. I am currently working on making all of my projects available for professional perusal upon request.
 
+While perhaps unprofessional, I dedicate this space to my dog, Pup. Who, without fail (or choice), allows me to use her as my "rubby ducky" and debug my code with her, acting as my sounding board.
+
 If there is anything you would like to see or if you have any questions, please contact me.
 
 :email: jenbrox@gmail.com  
